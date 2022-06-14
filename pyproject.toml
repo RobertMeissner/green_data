@@ -10,6 +10,7 @@ textract = "^1.6.5"
 jupyter = "^1.0.0"
 requests = "^2.28.0"
 pdfminer = "^20191125"
+spacy = "^3.3.1"
 
 [tool.poetry.dev-dependencies]
 
